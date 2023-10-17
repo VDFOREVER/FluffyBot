@@ -18,15 +18,15 @@ async fn main() {
             eprintln!("Error loading configuration from file");
         }
         println!("Sleep 30 min");
-        sleep(Duration::from_secs(1800)).await; // Sleep for 30 minutes
+        sleep(Duration::from_secs(1800)).await;
     }
 }
 
 async fn process_config(config: &Config) -> Result<(), String> {
     for page in &config.pages {
-        let history_file_path = format!("history_{}.json", page.url);
+        let history_file_path = format!("history_{}.json", page);
         let mut processed_links = history::read_history(&history_file_path).unwrap_or_else(|_| HashMap::new());
-        let post_results = parse::parse_html(&page.url, &page.post.class, &page.post.descendant, &page.post.attr).await.map_err(|e| format!("Error while parsing HTML: {}", e))?;
+        let post_results = parse::parse_html(&page, &config.post.class, &config.post.descendant, &config.post.attr).await.map_err(|e| format!("Error while parsing HTML: {}", e))?;
 
         if processed_links.is_empty() {
             for result in &post_results {
@@ -58,11 +58,11 @@ async fn process_image_result(config: &Config, webhook_url: &String, image_resul
     println!("Parse Image");
     for result in image_results {
         let author_results = match parse::parse_text(post, &config.author.class, &config.author.descendant).await {
-            Ok(res) => res.join(", "), // Объединяем элементы в строку
+            Ok(res) => res.join(", "),
             Err(e) => format!("Error while parsing author: {}", e),
         };
         let character_results = match parse::parse_text(post, &config.character.class, &config.character.descendant).await {
-            Ok(res) => res.join(", "), // Объединяем элементы в строку
+            Ok(res) => res.join(", "),
             Err(e) => format!("Error while parsing character: {}", e),
         };
 

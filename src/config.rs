@@ -10,7 +10,8 @@ pub struct PostConfig {
 
 #[derive(Serialize, Deserialize)]
 pub struct Config {
-    pub pages: Vec<PageConfig>,
+    pub pages: Vec<String>,
+    pub post: PostConfig,
     pub image: PostConfig,
     pub webhook_url: String,
     pub author: Author,
@@ -20,7 +21,6 @@ pub struct Config {
 #[derive(Serialize, Deserialize)]
 pub struct PageConfig {
     pub url: String,
-    pub post: PostConfig,
 }
 
 #[derive(Serialize, Deserialize)]

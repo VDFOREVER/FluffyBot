@@ -1,5 +1,5 @@
 {
-    "webhook_url": "https://discord.com/api/webhooks/1163467155451424879/Lcc1M83mmYC2c4lF18pKaqJJxTEn9AiFJ6oPLc46RYEcT-nzyUr43bFXL7QpHGmWGetT",
+    "webhook_url": "https://discord.com/api/webhooks/1163376375386865726/PEnrXGxtVvMzdJz7KRofZ3_F7QtkFs9RU5fQ0O5QkP_YPuBsu1yFRv2rad1E0y8AEVpZ",
     "author": {
       "class": "tag-type-artist",
       "descendant" : "a"
@@ -13,199 +13,45 @@
         "descendant" : "img",
         "attr" : "src"
     },
+    "post": {
+      "class": "thumbnail-preview",
+      "descendant": "a",
+      "attr": "href"
+    },
     "pages": [
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=shinano_%28azur_lane%29+",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=shirakami_fubuki",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=wakamo_%28blue_archive%29",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=wisespeak",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=plushmallow",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=kurokami_fubuki",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=rottenweiler",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=lappland_%28arknights%29+",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=akagi_%28azur_lane%29",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=kudamaki_tsukasa",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=asanagi_%28azur_lane%29",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?paage=post&s=list&tags=kaga_(azur_lane)",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=nradiowave",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=nagato_%28azur_lane%29",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=tingyun_%28honkai%3A_star_rail%29",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=foxykuro++fox_ears+",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=ehrrr+",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=seraziel",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=mildt",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=silvervale+",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=tab_head",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=texas_%28arknights%29",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=imaizumi_kagerou",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        },
-        {
-          "url": "https://gelbooru.com/index.php?page=post&s=list&tags=musashi_%28azur_lane%29",
-          "post": {
-            "class": "thumbnail-preview",
-            "descendant": "a",
-            "attr": "href"
-          }
-        }
+          "https://gelbooru.com/index.php?page=post&s=list&tags=shinano_%28azur_lane%29+",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=shirakami_fubuki",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=wakamo_%28blue_archive%29",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=wisespeak",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=plushmallow",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=kurokami_fubuki",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=rottenweiler",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=lappland_%28arknights%29+",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=akagi_%28azur_lane%29",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=kudamaki_tsukasa",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=asanagi_%28azur_lane%29",
+          "https://gelbooru.com/index.php?paage=post&s=list&tags=kaga_(azur_lane)",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=nradiowave",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=nagato_%28azur_lane%29",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=tingyun_%28honkai%3A_star_rail%29",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=foxykuro++fox_ears+",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=ehrrr+",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=seraziel",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=mildt",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=silvervale+",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=tab_head",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=texas_%28arknights%29",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=imaizumi_kagerou",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=annytf",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=5danny1206+fox_ears+",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=hibiki_%28blue_archive%29",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=amagi_%28azur_lane%29+",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=atago_%28azur_lane%29+",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=franka_%28arknights%29+",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=shigure_%28azur_lane%29+",
+          "https://gelbooru.com/?page=post&s=list&tags=whislash_%28arknights%29",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=angelina_%28arknights%29+",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=musashi_%28azur_lane%29"
       ]
 }
   

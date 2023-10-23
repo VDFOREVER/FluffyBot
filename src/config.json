@@ -1,5 +1,5 @@
 {
-    "webhook_url": "https://discord.com/api/webhooks/1163376375386865726/PEnrXGxtVvMzdJz7KRofZ3_F7QtkFs9RU5fQ0O5QkP_YPuBsu1yFRv2rad1E0y8AEVpZ",
+    "webhook_url": "",
     "author": {
       "class": "tag-type-artist",
       "descendant" : "a"
@@ -30,7 +30,7 @@
           "https://gelbooru.com/index.php?page=post&s=list&tags=akagi_%28azur_lane%29",
           "https://gelbooru.com/index.php?page=post&s=list&tags=kudamaki_tsukasa",
           "https://gelbooru.com/index.php?page=post&s=list&tags=asanagi_%28azur_lane%29",
-          "https://gelbooru.com/index.php?paage=post&s=list&tags=kaga_(azur_lane)",
+          "https://gelbooru.com/index.php?page=post&s=list&tags=kaga_(azur_lane)",
           "https://gelbooru.com/index.php?page=post&s=list&tags=nradiowave",
           "https://gelbooru.com/index.php?page=post&s=list&tags=nagato_%28azur_lane%29",
           "https://gelbooru.com/index.php?page=post&s=list&tags=tingyun_%28honkai%3A_star_rail%29",

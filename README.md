@@ -1,1 +1,1 @@
-#Gelbooru parse discord bot
+#Gelbooru parser discord bot
